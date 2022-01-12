@@ -1,0 +1,17 @@
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\Helpers.deps.json
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\Helpers.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\ref\Helpers.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\Helpers.pdb
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\DTOs.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\Models.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\Models.pdb
+C:\Users\hp\source\BookLibraryProject\Helpers\bin\Release\net5.0\DTOs.pdb
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.AssemblyInfo.cs
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.csproj.CopyComplete
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\ref\Helpers.dll
+C:\Users\hp\source\BookLibraryProject\Helpers\obj\Release\net5.0\Helpers.pdb

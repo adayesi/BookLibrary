@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf26d479-8c1c-412c-aaa5-f046d4d6ff94": {
+      "ProjectGuid": "bf26d479-8c1c-412c-aaa5-f046d4d6ff94",
+      "DisplayName": "BookLibraryProject",
+      "ColorIndex": 0
+    },
+    "ea1f713d-6b24-4845-9f09-7acde8d0e1f4": {
+      "ProjectGuid": "ea1f713d-6b24-4845-9f09-7acde8d0e1f4",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "933a971c-6c32-4be6-9ff5-631bc4f20998": {
+      "ProjectGuid": "933a971c-6c32-4be6-9ff5-631bc4f20998",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "4beda71d-3ed2-4f48-a513-27586387b94e": {
+      "ProjectGuid": "4beda71d-3ed2-4f48-a513-27586387b94e",
+      "DisplayName": "Data",
+      "ColorIndex": 3
+    },
+    "ea43115a-dc64-491a-ab48-b0e3821d9e41": {
+      "ProjectGuid": "ea43115a-dc64-491a-ab48-b0e3821d9e41",
+      "DisplayName": "DTOs",
+      "ColorIndex": 4
+    },
+    "409d289f-f732-41e3-b3b0-c0d5d8c9a127": {
+      "ProjectGuid": "409d289f-f732-41e3-b3b0-c0d5d8c9a127",
+      "DisplayName": "Extensions",
+      "ColorIndex": 5
+    },
+    "3e049f07-8f07-4954-ae91-e5c815bc2014": {
+      "ProjectGuid": "3e049f07-8f07-4954-ae91-e5c815bc2014",
+      "DisplayName": "Models",
+      "ColorIndex": 6
+    },
+    "beec8eda-6a81-42ef-96e5-54beb6ead8d1": {
+      "ProjectGuid": "beec8eda-6a81-42ef-96e5-54beb6ead8d1",
+      "DisplayName": "BookLibraryDomain.Tests",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

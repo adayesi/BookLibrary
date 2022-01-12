@@ -1,0 +1,15 @@
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\MiddleWare.deps.json
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\MiddleWare.dll
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\ref\MiddleWare.dll
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\MiddleWare.pdb
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\Errors.dll
+C:\Users\hp\source\BookLibraryProject\MiddleWare\bin\Debug\net5.0\Errors.pdb
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.csproj.AssemblyReference.cache
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.AssemblyInfoInputs.cache
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.AssemblyInfo.cs
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.csproj.CopyComplete
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.dll
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\ref\MiddleWare.dll
+C:\Users\hp\source\BookLibraryProject\MiddleWare\obj\Debug\net5.0\MiddleWare.pdb

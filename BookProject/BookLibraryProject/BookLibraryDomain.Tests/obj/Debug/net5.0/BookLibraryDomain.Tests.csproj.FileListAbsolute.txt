@@ -1,0 +1,6 @@
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\obj\Debug\net5.0\BookLibraryDomain.Tests.csproj.AssemblyReference.cache
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\obj\Debug\net5.0\BookLibraryDomain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\obj\Debug\net5.0\BookLibraryDomain.Tests.AssemblyInfoInputs.cache
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\obj\Debug\net5.0\BookLibraryDomain.Tests.AssemblyInfo.cs
+C:\Users\hp\source\BookLibraryProject\BookLibraryDomain.Tests\obj\Debug\net5.0\BookLibraryDomain.Tests.csproj.CoreCompileInputs.cache

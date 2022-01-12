@@ -1,0 +1,12 @@
+C:\Users\hp\source\BookLibraryProject\Error\bin\Release\net5.0\Errors.deps.json
+C:\Users\hp\source\BookLibraryProject\Error\bin\Release\net5.0\Errors.dll
+C:\Users\hp\source\BookLibraryProject\Error\bin\Release\net5.0\ref\Errors.dll
+C:\Users\hp\source\BookLibraryProject\Error\bin\Release\net5.0\Errors.pdb
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.csproj.AssemblyReference.cache
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.AssemblyInfoInputs.cache
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.AssemblyInfo.cs
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.dll
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\ref\Errors.dll
+C:\Users\hp\source\BookLibraryProject\Error\obj\Release\net5.0\Errors.pdb
